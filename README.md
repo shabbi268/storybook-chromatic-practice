@@ -1,3 +1,11 @@
+# Running Storybook
+yarn storybook
+
+# Running chromatic
+npx chromatic --project-token=639b26d164ca 
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
